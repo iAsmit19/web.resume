@@ -102,6 +102,18 @@ body {
     #languages h2 {
         margin-left: -4vw;
     }
+
+    #resume-line-graphic {
+        display: none;
+    }
+
+    #the-name-graphic {
+        display: none;
+    }
+
+    #the-name-graphic-2 {
+        display: none;
+    }
 }
 
 #section-1-1 {
