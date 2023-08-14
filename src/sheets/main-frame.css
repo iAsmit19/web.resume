@@ -5,6 +5,7 @@
 html {
     scroll-behavior: smooth;
     overflow-x: hidden;
+    user-zoom: none;
 
     width: 100vw;
 
